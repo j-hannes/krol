@@ -1,0 +1,37 @@
+{
+  "name": "mem-template",
+  "version": "0.0.0",
+  "description": "Template app using marionette, express and mongodb.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/j-hannes/krol"
+  },
+  "keywords": [
+    "marionette",
+    "mongodb",
+    "node",
+    "express",
+    "backbone",
+    "gulp",
+    "browserify",
+    "handlebars",
+    "mongoose",
+    "mocha",
+    "chai",
+    "sinon",
+    "jasmine",
+    "karma",
+    "phantomjs",
+    "proxyquire"
+  ],
+  "author": "j-hannes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j-hannes/krol/issues"
+  },
+  "homepage": "https://github.com/j-hannes/krol"
+}
